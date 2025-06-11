@@ -1,0 +1,284 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Buttermilk Pancakes",
+      "price": 11,
+      "category": "breakfast",
+      "img": "./assets/item-1.jpg",
+      "desc": "The taste of fresh milk in our buttermilk pancakes! Start your day with the soft and fluffy texture of our special pancakes."
+    },
+    {
+      "id": 2,
+      "title": "Diner Double Burger",
+      "category": "lunch",
+      "price": 13.99,
+      "img": "./assets/item-2.jpg",
+      "desc": "Classic diner-style double burgers with incredible taste and a filling portion—perfect for your lunch!"
+    },
+    {
+      "id": 3,
+      "title": "Godzilla Milkshake",
+      "category": "shakes",
+      "price": 6.99,
+      "img": "./assets/item-3.jpg",
+      "desc": "A legendary flavor is waiting for you! Treat yourself to our Godzilla Milkshake for a sweet break."
+    },
+    {
+      "id": 4,
+      "title": "Village Breakfast",
+      "category": "breakfast",
+      "price": 20.99,
+      "img": "./assets/item-4.jpeg",
+      "desc": "The irreplaceable taste of country-style breakfasts is here! Our Village Breakfast is prepared with all-natural ingredients and invites you to a feast of flavors."
+    },
+    {
+      "id": 5,
+      "title": "Egg Attack",
+      "category": "lunch",
+      "price": 22.99,
+      "img": "./assets/item-5.jpeg",
+      "desc": "The irreplaceable taste of country-style breakfasts is here! Our Village Breakfast is prepared with all-natural ingredients and invites you to a feast of flavors."
+    },
+    {
+      "id": 6,
+      "title": "Oreo Dream",
+      "category": "shakes",
+      "price": 18.99,
+      "img": "./assets/item-6.jpeg",
+      "desc": "A must-try for Oreo lovers! Oreo Dream takes you to a sweet new world. Simply irresistible!"
+    },
+    {
+      "id": 7,
+      "title": "Bacon Flood",
+      "category": "breakfast",
+      "price": 8.99,
+      "img": "./assets/item-7.jpeg",
+      "desc": "For bacon lovers! Crispy, freshly fried bacon and other delicious ingredients—Bacon Flood is the best way to start your morning."
+    },
+    {
+      "id": 8,
+      "title": "American Classic",
+      "category": "lunch",
+      "price": 12.99,
+      "img": "./assets/item-8.jpeg",
+      "desc": "A classic taste from American cuisine, perfect for lunch! Delicious and satisfying at a great price."
+    },
+    {
+      "id": 9,
+      "title": "Quarantine Buddy",
+      "category": "shakes",
+      "price": 16.99,
+      "img": "./assets/item-9.jpeg",
+      "desc": "A tasty milkshake to keep you company when you're feeling bored—make a sweet escape with Quarantine Buddy."
+    },
+    {
+      "id": 10,
+      "title": "Bison Steak",
+      "category": "lunch",
+      "price": 22.99,
+      "img": "./assets/item-10.jpeg",
+      "desc": "Unique bison steak paired with special spices and sauces—perfect for your dinner!"
+    },
+    {
+      "id": 11,
+      "title": "Avocado Toast Deluxe",
+      "category": "breakfast",
+      "price": 15.5,
+      "img": "./assets/item-11.jpeg",
+      "desc": "Crunchy toast topped with creamy avocado, poached egg, and a sprinkle of chili flakes. The perfect healthy start for your morning."
+    },
+    {
+      "id": 12,
+      "title": "French Omelette",
+      "category": "breakfast",
+      "price": 14.0,
+      "img": "./assets/item-12.jpeg",
+      "desc": "Classic French-style omelette with herbs and melted cheese inside, served with a side of fresh greens."
+    },
+    {
+      "id": 13,
+      "title": "Vegan Pancakes",
+      "category": "breakfast",
+      "price": 13.5,
+      "img": "./assets/item-13.jpeg",
+      "desc": "Fluffy vegan pancakes made with almond milk, topped with berries and a drizzle of maple syrup."
+    },
+    {
+      "id": 14,
+      "title": "Classic Cheeseburger",
+      "category": "lunch",
+      "price": 18.0,
+      "img": "./assets/item-14.jpeg",
+      "desc": "A juicy beef patty, cheddar cheese, lettuce, tomato, and our secret sauce served in a toasted bun."
+    },
+    {
+      "id": 15,
+      "title": "Crispy Chicken Sandwich",
+      "category": "lunch",
+      "price": 19.0,
+      "img": "./assets/item-15.jpeg",
+      "desc": "Golden fried chicken breast with pickles, coleslaw, and spicy mayo on a soft brioche bun."
+    },
+    {
+      "id": 16,
+      "title": "BBQ Pulled Pork Burger",
+      "category": "lunch",
+      "price": 20.0,
+      "img": "./assets/item-16.jpeg",
+      "desc": "Slow-cooked pulled pork with tangy BBQ sauce, pickled onions, and fresh slaw in a toasted burger bun."
+    },
+    {
+      "id": 17,
+      "title": "Veggie Delight Wrap",
+      "category": "lunch",
+      "price": 16.5,
+      "img": "./assets/item-17.jpeg",
+      "desc": "A healthy wrap loaded with grilled vegetables, hummus, and mixed greens."
+    },
+    {
+      "id": 18,
+      "title": "Triple Chocolate Shake",
+      "category": "shakes",
+      "price": 15.99,
+      "img": "./assets/item-18.jpeg",
+      "desc": "A rich blend of milk, dark, and white chocolate ice cream for the ultimate chocolate lovers’ experience."
+    },
+    {
+      "id": 19,
+      "title": "Mango Madness Shake",
+      "category": "shakes",
+      "price": 13.5,
+      "img": "./assets/item-19.png",
+      "desc": "Refreshing mango shake made with real mango puree and topped with whipped cream."
+    },
+    {
+      "id": 20,
+      "title": "Strawberry Dream Shake",
+      "category": "shakes",
+      "price": 14.5,
+      "img": "./assets/item-20.jpeg",
+      "desc": "Classic strawberry shake blended with vanilla ice cream and topped with fresh strawberry slices."
+    },
+    {
+      "id": 21,
+      "title": "Peanut Butter Bliss Shake",
+      "category": "shakes",
+      "price": 16.0,
+      "img": "./assets/item-21.jpeg",
+      "desc": "Creamy milkshake with rich peanut butter, chocolate chips, and a peanut brittle topping."
+    },
+    {
+      "id": 22,
+      "title": "Eggs Benedict",
+      "category": "breakfast",
+      "price": 19.0,
+      "img": "./assets/item-22.jpeg",
+      "desc": "Poached eggs, ham, and creamy hollandaise sauce served on toasted English muffins."
+    },
+    {
+      "id": 23,
+      "title": "Spinach & Feta Bagel",
+      "category": "breakfast",
+      "price": 11.99,
+      "img": "./assets/item-23.jpeg",
+      "desc": "Warm bagel filled with sautéed spinach, feta cheese, and sun-dried tomatoes."
+    },
+    {
+      "id": 24,
+      "title": "Smoked Salmon Toast",
+      "category": "breakfast",
+      "price": 21.0,
+      "img": "./assets/item-24.jpeg",
+      "desc": "Open-faced toast topped with smoked salmon, cream cheese, capers, and fresh dill."
+    },
+    {
+      "id": 25,
+      "title": "Quinoa Power Bowl",
+      "category": "lunch",
+      "price": 20.0,
+      "img": "./assets/item-25.jpeg",
+      "desc": "A nourishing bowl with quinoa, grilled chicken, roasted veggies, avocado, and a lemon-tahini dressing."
+    },
+    {
+      "id": 26,
+      "title": "Halloumi & Pesto Sandwich",
+      "category": "lunch",
+      "price": 17.5,
+      "img": "./assets/item-26.jpeg",
+      "desc": "Grilled halloumi cheese, fresh tomato, arugula, and basil pesto on artisanal bread."
+    },
+    {
+      "id": 27,
+      "title": "Classic Caesar Salad",
+      "category": "lunch",
+      "price": 15.0,
+      "img": "./assets/item-27.jpeg",
+      "desc": "Romaine lettuce, parmesan, garlic croutons, and creamy Caesar dressing."
+    },
+    {
+      "id": 28,
+      "title": "Spicy Chicken Tacos",
+      "category": "lunch",
+      "price": 18.99,
+      "img": "./assets/item-28.jpeg",
+      "desc": "Three soft tacos filled with spicy grilled chicken, avocado, pico de gallo, and chipotle mayo."
+    },
+    {
+      "id": 29,
+      "title": "Mint Choco Shake",
+      "category": "shakes",
+      "price": 13.99,
+      "img": "./assets/item-29.jpeg",
+      "desc": "Cool mint and chocolate ice cream come together for a refreshing, indulgent shake."
+    },
+    {
+      "id": 30,
+      "title": "Cookies & Cream Shake",
+      "category": "shakes",
+      "price": 17.0,
+      "img": "./assets/item-30.jpeg",
+      "desc": "A rich and creamy shake blended with cookie pieces and topped with whipped cream."
+    },
+    {
+      "id": 31,
+      "title": "Mediterranean Shakshuka",
+      "category": "breakfast",
+      "price": 16.0,
+      "img": "./assets/item-31.jpeg",
+      "desc": "Eggs poached in spicy tomato sauce with bell peppers and herbs, served with fresh bread."
+    },
+    {
+      "id": 32,
+      "title": "Chicken Caesar Wrap",
+      "category": "lunch",
+      "price": 16.99,
+      "img": "./assets/item-32.jpeg",
+      "desc": "Grilled chicken, romaine lettuce, parmesan, and Caesar dressing wrapped in a tortilla."
+    },
+    {
+      "id": 33,
+      "title": "Falafel Bowl",
+      "category": "lunch",
+      "price": 14.99,
+      "img": "./assets/item-33.jpeg",
+      "desc": "Homemade falafel, tabbouleh, hummus, and roasted veggies served over basmati rice."
+    },
+    {
+      "id": 34,
+      "title": "Blueberry Muffin Shake",
+      "category": "shakes",
+      "price": 16.0,
+      "img": "./assets/item-34.jpeg",
+      "desc": "A milkshake inspired by blueberry muffins, with real blueberries and vanilla ice cream."
+    },
+    {
+      "id": 35,
+      "title": "Tropical Breeze Shake",
+      "category": "shakes",
+      "price": 15.5,
+      "img": "./assets/item-35.jpeg",
+      "desc": "A creamy blend of pineapple, coconut, and mango for an island-inspired milkshake."
+    }
+  ]
+}

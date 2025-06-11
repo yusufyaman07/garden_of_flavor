@@ -1,0 +1,127 @@
+/* * Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+/* * Css Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+/* * Global Css */
+body {
+  min-height: 100vh;
+  padding-top: 80px;
+  font-family: "Poppins", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+/* * Categories Buttons */
+#category-buttons label {
+  border: 2px solid #43a047;
+  padding: 10px 26px;
+  cursor: pointer;
+  border-radius: 25px;
+  font-weight: 500;
+  font-size: 1.07rem;
+  color: #388e3c;
+  background: #e8f5e9;
+  box-shadow: 0 1px 6px 0 rgba(67, 160, 71, 0.05);
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-width: 130px;
+  justify-content: center;
+}
+
+#category-buttons label:hover {
+  background: #43a047;
+  color: #fff;
+}
+
+#category-buttons input[type="radio"] {
+  display: none;
+}
+
+/* Checked olan input'un label'ı */
+#category-buttons div:has(input:checked) > label {
+  background: linear-gradient(90deg, #43a047 60%, #8bc34a 100%);
+  color: #fff;
+  border-color: #388e3c;
+  box-shadow: 0 2px 12px rgba(56, 142, 60, 0.11);
+}
+
+/* Menu Card */
+
+.menu-card {
+  border: none;
+  border-radius: 18px;
+  overflow: hidden;
+  transition: transform 0.18s, box-shadow 0.18s;
+  background: #f5fff7;
+  cursor: pointer;
+}
+
+.menu-card:hover {
+  transform: translateY(-7px) scale(1.025);
+  box-shadow: 0 6px 32px 0 rgba(67, 160, 71, 0.14),
+    0 2px 8px 0 rgba(56, 142, 60, 0.12);
+}
+
+.menu-card-img {
+  height: 250px;
+  object-fit: cover;
+  border-radius: 18px 18px 0 0;
+  box-shadow: 0 4px 14px rgba(56, 142, 60, 0.06);
+}
+
+.menu-card-badge {
+  font-size: 0.97rem;
+  background: linear-gradient(90deg, #43a047 70%, #8bc34a 100%);
+  color: #fff !important;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(67, 160, 71, 0.15);
+}
+
+.menu-card-price {
+  font-size: 1.01rem;
+  background: #fff !important;
+  color: #388e3c !important;
+  border-radius: 16px;
+  border: 1.2px solid #43a047;
+  box-shadow: 0 1px 6px rgba(56, 142, 60, 0.07);
+}
+
+/* * Blog Card */
+.blog-card {
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+.blog-card:hover {
+  transform: translateY(-7px) scale(1.025);
+}
+.blog-card .card-img-top {
+  height: 230px;
+  object-fit: cover;
+  width: 100%;
+}
+
+/* ! Detail Page */
+
+.detail-breadcrumb {
+  font-size: 1rem;
+  color: #888;
+}
+.detail-img {
+  min-height: 320px;
+  object-fit: cover;
+  max-height: 420px;
+}
+.detail-content-box {
+  box-shadow: 0 0.5rem 2rem rgba(60, 94, 60, 0.08);
+  background: #fff;
+  border-radius: 1.25rem;
+}
